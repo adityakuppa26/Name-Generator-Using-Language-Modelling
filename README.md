@@ -11,3 +11,6 @@ roza
 gerraro  
   
 The model uses an RNN with a basic RNN unit, implemented from scratch using python. The test dataset has been taken from a kaggle competition.
+  
+  
+The file nameGenerator_MBGD.py uses a mini-batch GD for training, while the nameGenerator_SGD.py uses stochastic GD.  
